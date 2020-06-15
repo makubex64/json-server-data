@@ -11,7 +11,6 @@ globally
 
 ```
 npm install -g json-server
-
 ```
 
 as dependency
