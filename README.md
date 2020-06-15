@@ -1,4 +1,4 @@
-# npm install -g json-server
+# Json server
 
 https://github.com/typicode/json-server
 
@@ -6,9 +6,18 @@ https://github.com/typicode/json-server
 
 Install Json-server
 
+globally
+
+
 ```
 npm install -g json-server
 
+```
+
+as dependency
+
+```
+npm install json-server
 ```
 
 
