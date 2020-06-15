@@ -22,8 +22,7 @@ create a root file called **db.json**
 
 
 insert into **db.json**:
-> {
-	"employees":[
+> { "employees":[
 
 	  { "id": 1, "firstName":"John", "lastName":"Doe", "age": 12},
 	  { "id": 2,"firstName":"Anna", "lastName":"Smith", "age": 23 },
@@ -44,9 +43,7 @@ insert into **db.json**:
 	  { "id": 8,"firstName":"fazt", "lastName":"web", "age": 23},
 	  { "id": 9,"firstName":"Bluu", "lastName":"code", "age": 26}
 	]
-
-
-}
+     }
 
 
 
