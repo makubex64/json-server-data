@@ -56,6 +56,8 @@ insert into **db.json**:
 json-server --watch db.json
 ```
 
+Now if you go to http://localhost:3000/, you'll get
+
 
 
 
